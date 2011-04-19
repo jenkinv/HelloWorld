@@ -28,3 +28,5 @@
   555  history -n10
   556  history 10
   557  history 30 > README
+
+visit http://gitref.org/index.html for git study~~
