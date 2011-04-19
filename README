@@ -1,1 +1,30 @@
-Hello World 中华人民共和国
+  528  git config --global user.email "jenkinv@163.com"
+  529  git conifg --global github.user jenkinv
+  530  git config --global github.user jenkinv
+  531  git config --global github.token b3d99154be67ef7cbc35cb6fbd96bcb3
+  532  git config --global user.email jenkinv@gmail.com
+  533  mkdir HelloWorld
+  534  cd ~
+  535  mkdri HelloWorld
+  536  mkdir HelloWorld
+  537  cd HelloWorld/
+  538  git init
+  539  touch README
+  540  vi README 
+  541  git add README
+  542  git commit -m 'first commit'
+  543  git remote add origin git@github.com:jenkinv/HelloWorld.git
+  544  git push -u origin master
+  545  git push -u origin master -p22
+  546  git push -u origin master
+  547  vi text.txt
+  548  git add text.txt
+  549  git commit text.txt -m "test"
+  550  git push -u origin master
+  551  git push origin master
+  552  history
+  553  history > README
+  554  vi README 
+  555  history -n10
+  556  history 10
+  557  history 30 > README
