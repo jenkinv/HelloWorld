@@ -1,8 +1,3 @@
-  528  git config --global user.email "jenkinv@163.com"
-  529  git conifg --global github.user jenkinv
-  530  git config --global github.user jenkinv
-  531  git config --global github.token b3d99154be67ef7cbc35cb6fbd96bcb3
-  532  git config --global user.email jenkinv@gmail.com
   533  mkdir HelloWorld
   534  cd ~
   535  mkdri HelloWorld
